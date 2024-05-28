@@ -1,0 +1,84 @@
+body {
+    background-color: #FDF0D5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: 70px;
+    color: #780000;
+    position: static;
+}
+
+.pofinfo{
+    color: #003049;
+    font-size: 20px;
+    position: static;
+}
+
+
+#themainpassage{
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    float: left;
+    margin-top: 10%;
+    margin-left: 8%;
+    position: sticky;
+}
+
+.logo {
+    width: 400px;
+    float: right;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 10%;
+    margin-top: 4%;
+    position: static;
+}
+
+
+
+button {
+    width: 100px;
+    height: 50px;
+    font-size: large;
+    border: solid  #780000;
+    border-radius: 50px;
+    background-color: #FDF0D5;
+    position: static;
+}
+
+nav {
+    text-align: left;
+    padding-left: 20px;
+    background-color: #669bbc;
+    position: sticky;
+    border: solid 5px #669bbc;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+#backlink{
+    color: #780000;
+    text-decoration: none;
+    position: static;
+}
+
+#login{
+    color: #c1121f;
+    text-decoration: none;
+    position: static;
+}
+
+#aboutus{
+    color:  #003049;
+    text-decoration: none;
+    position: static;
+}
+
+#privicypolicy{
+    color: #003049;
+    text-decoration: none;
+    position: static;
+}

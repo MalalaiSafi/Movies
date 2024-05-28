@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(178, 208, 218);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #003049;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: #003049;
+}
+
+h2{
+    color: #780000;
+}
+
+h3{
+    color: #780000;
+}
+
+h4{
+    color: #780000;
+}
+
+strong{
+    color: #c1121f;
+}
+
+p{
+    color: #003049;
+}
+
+nav {
+    text-align: left;
+    padding-left: 20px;
+    background-color: #c1121f;
+    position: sticky;
+    border: solid 5px #c1121f;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+#backlink{
+    color: rgb(187, 208, 218);
+    text-decoration: none;
+}
+
+.background{
+    margin-left: 25%;
+    justify-content: center;
+    height: 400px;
+    width: 600px;
+    background-image: url(bbbb.jpg);
+    background-position: center;
+    border: #003049 solid 5px;
+    border-radius: 600px;
+    background-size: cover;
+}
